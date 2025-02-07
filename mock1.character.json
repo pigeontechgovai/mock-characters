@@ -1,5 +1,5 @@
 {
-    "name": "Agent Mock",
+    "name": "Agent Moc2k",
     "clients": ["telegram"],
     "modelProvider": "anthropic",
     "imageVisionModelProvider": "openai",
