@@ -1,7 +1,8 @@
 {
     "name": "Agent Mock",
     "clients": [
-        "telegram"
+        "telegram",
+        "twitter"
     ],
     "modelProvider": "anthropic",
     "imageVisionModelProvider": "openai",
